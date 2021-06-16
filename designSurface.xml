@@ -1,0 +1,14 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jonas/AndroidStudioProjects/Time-is-Money-master/Time-is-Money-master/app/src/main/res/layout/activity_acesso_livre.xml" value="0.2857789855072464" />
+        <entry key="..\:/Users/Jonas/AndroidStudioProjects/Time-is-Money-master/Time-is-Money-master/app/src/main/res/layout/activity_login.xml" value="0.2857789855072464" />
+        <entry key="..\:/Users/Jonas/AndroidStudioProjects/Time-is-Money-master/Time-is-Money-master/app/src/main/res/layout/activity_registro.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Jonas/AndroidStudioProjects/Time-is-Money-master/Time-is-Money-master/app/src/main/res/layout/itens_moedas.xml" value="0.2921195652173913" />
+        <entry key="..\:/Users/Jonas/AndroidStudioProjects/WebView/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Jonas/AndroidStudioProjects/WebView/app/src/main/res/layout/activity_tela.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
